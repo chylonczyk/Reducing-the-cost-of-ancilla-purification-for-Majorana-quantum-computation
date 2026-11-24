@@ -78,24 +78,6 @@ Please consult [CLAIM_COVERAGE.md](CLAIM_COVERAGE.md) for a claim-by-claim map t
 
 The known mathematical limitation is intentional: passing scripts certifies the model-level computations and checks algebraic identities. It is not an independent proof of the microscopic braid-and-fusion instrument or a demonstration of operational feasibility.
 
-## Publishing and code availability
-
-For the initial GitHub upload, copy the **contents** of the extracted
-`majorana_verification/` directory to the repository root, rather than uploading only
-an opaque ZIP. This makes the README and source files immediately visible.
-
-The archive can also be distributed as `majorana_verification.zip`, as named in the
-manuscript. Do not claim public availability until the files have actually been
-uploaded. [DATA_AVAILABILITY.tex](DATA_AVAILABILITY.tex) gives replacement text to use
-after publication of the repository contents.
-
-For a fixed submission snapshot, retain the archive and its checksums, and record the
-actual commit or release identifier when one has been created. No release identifier,
-DOI, publication status, or author approval has been invented in this package.
-
-No software licence has been selected in this refresh. The authors should agree on a
-licence and add its file before the public release; no copyright ownership has been
-assigned here. The manuscript author list and manuscript text have not been modified.
 
 ## Integrity and working directories
 
