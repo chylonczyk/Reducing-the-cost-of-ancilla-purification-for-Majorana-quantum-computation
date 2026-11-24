@@ -1,0 +1,10 @@
+# Generated local files; reference_results/ and recheck_results/ are intentionally tracked.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+/verification_results/
+/audit_output/
+/comparison_results.json
+.DS_Store
+Thumbs.db
